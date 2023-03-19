@@ -7,6 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pittu777&label=Profile%20views&color=0e75b6&style=flat" alt="pittu777" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pittu777" alt="pittu777" /></a> </p>
+
 [![Click Me](https://i.pinimg.com/originals/ae/e2/c2/aee2c2030d1ef473b3ce7ee8af1ad719.gif)](https://pittu777.github.io/navbar/)
 
 - 🔭 I’m currently working on **JAVASCRIPT**
